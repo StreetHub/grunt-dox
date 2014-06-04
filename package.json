@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "dox": "*",
-    "dox-foundation": "~0.5.0",
+    "dox-foundation": "git://github.com/StreetHub/dox-foundation",
     "rimraf": "2.x"
   },
   "devDependencies": {
